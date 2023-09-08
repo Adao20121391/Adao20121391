@@ -33,8 +33,6 @@
   <h1  align = "left" >BANCO DE DADOS</h1 >
   <img align="left" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
    <img align="left" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-   <img align="left" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariabd/mariabd-original.svg">
-
 </div>
 
 
